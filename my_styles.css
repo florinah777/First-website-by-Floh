@@ -2,19 +2,8 @@
 <html>
 <body>
     <style>
-        body {
-          background-color: linen;
-        }
-        
-        h1 {
-          color: maroon;
-          margin-left: 40px;
-        } 
-        p  {
-  color: red;
-  font-family: courier;
-  font-size: 160%;
-       }
-        </style>
+        body {background-color: powderblue;}
+        h1 {color: maroon;} 
+     </style>
 </body>
 </html>
