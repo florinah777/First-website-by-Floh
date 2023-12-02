@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
-<body>
-    <style>
-body { background-color: powderblue;}
-h1 { color : maroon;}
-     </style>
-</body>
-</html>
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: maroon;
